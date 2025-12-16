@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0A6BBE"/>
+      <stop offset="100%" stop-color="#003E73"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Circle background -->
+  <circle cx="256" cy="256" r="240" fill="url(#grad)"/>
+
+  <!-- HL Text -->
+  <text x="50%" y="50%" font-family="Arial, Helvetica, sans-serif"
+        font-size="180" fill="#ffffff" font-weight="700"
+        text-anchor="middle" alignment-baseline="central">
+    HL
+  </text>
+</svg>
