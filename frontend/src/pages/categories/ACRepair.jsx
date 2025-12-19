@@ -319,7 +319,7 @@ export default function ACRepair() {
           <div style={{ height: 16 }} />
 
           <div style={styles.cardBox}>
-            <h4 style={{ margin: 0 }}>UC Promise</h4>
+            <h4 style={{ margin: 0 }}>Promise</h4>
             <ul
               style={{
                 marginTop: 8,
